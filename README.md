@@ -18,7 +18,7 @@
     4- Install the necessary dependencies and run it
 
 ```
-    $ pip install telethon
+    $ pip install requirements.txt
     $ python exporter.py
 ```
 
